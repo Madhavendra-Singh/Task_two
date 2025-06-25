@@ -1,4 +1,4 @@
-# Titanic Data Analysis – Task 1
+# Titanic Data Analysis – Task 2
 
 This project performs **exploratory data analysis (EDA)** on the Titanic dataset as part of Task 1. The goal is to analyze the dataset visually and statistically to identify important patterns and trends.
 
